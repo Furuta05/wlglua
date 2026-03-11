@@ -1,0 +1,2 @@
+# wlglua
+Whitelist [GLUA]
